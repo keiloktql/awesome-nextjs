@@ -291,6 +291,7 @@
 - [Canvas UI](https://canvasui.dev) - Canvas UI is an open source library of creative components drawn on canvas. Real HTML, rendered inside a canvas element, with WebGL effects running over it. Copy, paste, and ship.
 - [Shadcn Dashboard](https://shadcndashboard.dev/) - A production-ready shadcn dashboard kit with reusable UI blocks, components, and built-in AI prompts for React, Next.js, TypeScript, Tailwind CSS, and Supabase. Built on Base UI primitives for modern, scalable applications.
 - [Lifeline](https://github.com/evilrabbit/lifeline) -  A timeline component for Next.js that shows milestones over time.
+- [React Bits](https://reactbits.dev) - React components for creative developers offer customizable animated elements and backgrounds that integrate seamlessly, enhancing your project's appeal.
 
 ## Animation
 
