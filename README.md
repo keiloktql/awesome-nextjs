@@ -122,6 +122,7 @@
 - [MDXTS](https://www.mdxts.dev) - The MDXTS is a content & documentation SDK for React and Next.js. It helps to build a documentation website quickly and efficiently.
 - [Mintlify](https://mintlify.com) - Next.js-based platform for documentation sites. Beautiful out of the box, easy to maintain, and built to convert users.
 - [Docusaurus](https://docusaurus.io/) - A tool that enables teams and individuals to easily publish documentation websites.
+- [eziwiki](https://eziwiki.vercel.app/) - Documentation and wiki site generator with wiki links, backlinks and a graph view. Markdown is rendered at build time and exported as a static site.
 
 ## Next.js blog template
 
@@ -289,6 +290,7 @@
 - [Bklit](https://bklit.com) - A component library built on top of shadcn/ui for creating charts and data visualizations.
 - [Canvas UI](https://canvasui.dev) - Canvas UI is an open source library of creative components drawn on canvas. Real HTML, rendered inside a canvas element, with WebGL effects running over it. Copy, paste, and ship.
 - [Shadcn Dashboard](https://shadcndashboard.dev/) - A production-ready shadcn dashboard kit with reusable UI blocks, components, and built-in AI prompts for React, Next.js, TypeScript, Tailwind CSS, and Supabase. Built on Base UI primitives for modern, scalable applications.
+- [Lifeline](https://github.com/evilrabbit/lifeline) -  A timeline component for Next.js that shows milestones over time.
 
 ## Animation
 
