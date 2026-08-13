@@ -101,7 +101,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 
 ## Newsletters
 
-- [Next.js Weekly](https://Next.jsweekly.com) - Next.js Weekly is the best newsletter, sharing articles, tools, and projects related to Next.js.
+- [Next.js Weekly](https://Next.jsweekly.com) - The best newsletter, sharing articles, tools, and projects related to Next.js.
 - [This Week In React](https://thisweekinreact.com/) - Newsletter sharing the latest news related to the React ecosystem.
 - [React Digest](https://newsletter.reactdigest.net/) - A carefully curated weekly newsletter for React developers.
 - [JavaScript Weekly](http://javascriptweekly.com) - The JavaScript Weekly newsletter shares articles, news, and exciting projects related to JavaScript.
@@ -148,11 +148,11 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [Next Forge](https://www.next-forge.com) - A ready-to-use, production-grade Turborepo template for Next.js applications.
 - [TurboStarter](https://turbostarter.dev) - Web (Next.js), mobile (Expo), and browser extension (WXT) starter kit.
 - [Next.js Web3 Template](https://github.com/abaker42/crypto-shelfy-template) - Next.js TypeScript template with wallet integration + token gated pages.
-- [Neon Auth Next.js Template](https://github.com/neondatabase/neon-auth-nextjs-template) - Starter template for Next.js with Neon Auth, managed authentication that syncs users directly into your Neon Postgres database.
+- [Neon Auth Next.js Template](https://github.com/neondatabase/neon-auth-nextjs-template) - Starter template for Next.js with Neon Auth, managed authentication that syncs users directly into your Neon PostgreSQL database.
 - [Turbo Start Sanity](https://github.com/robotostudio/turbo-start-sanity) - Sanity + Next.js page builder starter with visual editing, live preview, and a Turborepo monorepo structure.
 - [Next Agent Template](https://github.com/moisesvalero/next-agent-template) - Next.js starter template for AI-agent-assisted projects with TypeScript, Tailwind CSS, tests, SEO, and optional Supabase and Sanity setup.
 - [Kostra](https://kostra.io) - Next.js SaaS boilerplate with authentication, Stripe billing, credit-based usage billing, admin dashboard, and full TypeScript.
-- [MailKite SaaS Starter](https://github.com/mailkite/saas-startup) - Production-ready Next.js 15 SaaS starter with self-contained authentication (Google/GitHub OAuth + email/password, no auth vendor), Stripe subscriptions, teams, Postgres/Drizzle, and a dark-first UI.
+- [MailKite SaaS Starter](https://github.com/mailkite/saas-startup) - Production-ready Next.js 15 SaaS starter with self-contained authentication (Google/GitHub OAuth + email/password, no auth vendor), Stripe subscriptions, teams, PostgreSQL/Drizzle, and a dark-first UI.
 
 ## Headless CMS
 
@@ -176,7 +176,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [PlanetScale](https://planetscale.com/) - MySQL platform built for scale.
 - [MongoDB](https://www.mongodb.com/) - Document database that helps build small and large platforms.
 - [Nhost](https://nhost.io/) - Open-source backend and development platform for building and scaling web and mobile apps.
-- [Neon Postgres](https://neon.com/) - Serverless Postgres with autoscaling, database branching, and scale-to-zero.
+- [Neon PostgreSQL](https://neon.com/) - Serverless PostgreSQL with autoscaling, database branching, and scale-to-zero.
 
 ## Authentication and User Management
 
@@ -196,7 +196,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [Better Auth](https://www.better-auth.com) - Framework-agnostic authentication and authorization framework for TypeScript.
 - [Permit.io](https://www.permit.io) - Authorization as a service solution for RBAC, ABAC, and ReBAC implementation.
 - [Stack Auth](https://stack-auth.com) - Open-source suite of tools for authentication and user management that you can implement in minutes.
-- [Neon Auth](https://neon.com/docs/neon-auth/overview) - Managed authentication that syncs users directly into your Neon Postgres database; built on Better Auth.
+- [Neon Auth](https://neon.com/docs/neon-auth/overview) - Managed authentication that syncs users directly into your Neon PostgreSQL database; built on Better Auth.
 - [Scalekit](https://scalekit.com) - Add enterprise SSO (SAML, OIDC) and SCIM to your Next.js app without replacing your existing auth setup. Works with Firebase, Auth0, and Cognito without rewrites.
 - [FusionAuth](https://fusionauth.io) - Modern, self-hosted Customer Identity and Access Management (CIAM) solution with a hybrid, single-tenant deployment, allowing you to develop and test anywhere.
 
@@ -205,7 +205,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [React Hook Form](https://react-hook-form.com) - The React Hook Form is a performant, flexible, and extensible library used for building forms.
 - [Conform](https://github.com/edmundhung/conform) - Type-safe form validation library with full support for server frameworks like Remix and Next.js.
 - [Formiz](https://formiz-react.com) - Build a React multi-step and complex validation form very easily with Formiz.
-- [TanStack Form](https://tanstack.com/form/latest) - TanStack Form is the ultimate solution for handling forms in web applications.
+- [TanStack Form](https://tanstack.com/form/latest) - The ultimate solution for handling forms in web applications.
 - [Minform](https://minform.io) - Collect form data effortlessly without writing code, and it's free.
 
 ## Form Builder
@@ -272,7 +272,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [Hero UI](https://www.heroui.com) - Beautiful, fast, and modern React UI library for building accessible and customizable web applications.
 - [Page UI](https://pageui.shipixen.com) - Set of landing page components and templates ready to copy and paste into your codebase—made for React and built on top of Tailwind CSS.
 - [Kibo UI](https://www.kibo-ui.com) - Customised registry of composable, accessible, and open-source components crafted for use with shadcn ui.
-- [Fancy Components](https://www.fancycomponents.dev) - Fancy Components is a collection of fun and quirky, ready-to-use components and microinteractions, and it's free and open source.
+- [Fancy Components](https://www.fancycomponents.dev) - A collection of fun and quirky, ready-to-use components and microinteractions, and it's free and open source.
 - [Liftkit](https://www.chainlift.io/liftkit) - The LiftKit UI is a framework designed for perfectionists.
 - [Billing SDK](https://billingsdk.com) - Type-safe billing and subscription components (pricing tables, usage meters, plan upgrade flows) for React, built with TypeScript, Tailwind CSS, and shadcn/ui.
 
@@ -290,7 +290,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [8StarLabs UI](https://ui.8starlabs.com/?utm_source=awesome-nextjs&utm_medium=referral&utm_campaign=directory_listing) - A set of beautifully designed components for developers who want niche, high-utility UI elements that you won't find in standard libraries.
 - [LocalMode UI](https://localmode.ai) - Local-first shadcn registry of 107 AI UI primitives and 36 composed blocks (chat, RAG, transcription, CLIP search) installable via npx shadcn add. Runs models entirely in the browser, no servers or API keys.
 - [Bklit](https://bklit.com) - A component library built on top of shadcn/ui for creating charts and data visualizations.
-- [Canvas UI](https://canvasui.dev) - Canvas UI is an open source library of creative components drawn on canvas. Real HTML, rendered inside a canvas element, with WebGL effects running over it. Copy, paste, and ship.
+- [Canvas UI](https://canvasui.dev) - An open source library of creative components drawn on canvas. Real HTML, rendered inside a canvas element, with WebGL effects running over it. Copy, paste, and ship.
 - [Shadcn Dashboard](https://shadcndashboard.dev/) - A production-ready shadcn dashboard kit with reusable UI blocks, components, and built-in AI prompts for React, Next.js, TypeScript, Tailwind CSS, and Supabase. Built on Base UI primitives for modern, scalable applications.
 - [Lifeline](https://github.com/evilrabbit/lifeline) -  A timeline component for Next.js that shows milestones over time.
 - [React Bits](https://reactbits.dev) - React components for creative developers offer customizable animated elements and backgrounds that integrate seamlessly, enhancing your project's appeal.
