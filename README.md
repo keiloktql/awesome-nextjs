@@ -84,6 +84,7 @@ If you find this list useful, please consider [sponsoring](https://github.com/sp
 - [Pushduck](https://github.com/abhay-ramesh/pushduck) - Type-safe S3 file upload library for Next.js with presigned URLs, React hooks, and support for AWS S3, Cloudflare R2, DigitalOcean Spaces, and MinIO.
 - [fluidity-ts](https://github.com/Fluidiety/fluidity-ts) - SSR-safe responsive toolkit with typed breakpoints, fluid typography, and container queries for Next.js.
 - [React Call](https://react-call.desko.dev/) - A lightweight library that allows React components to be used imperatively via `await`.
+- [Canopy](https://canopy.8starlabs.com/?utm_source=awesome-nextjs&utm_medium=referral&utm_campaign=directory_listing) - A living system map for Next.js projects that visualizes services, dependencies, costs, and owners, with AI-ready CLAUDE.md and AGENTS.md exports.
 
 ## SEO
 
